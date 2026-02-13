@@ -1,0 +1,3 @@
+export default function Page(){
+  return <main style={{padding:20}}><h1>asset-types</h1><p>Permission-aware UI stub with loading/empty/error states and dynamic labels (DEFAULT).</p></main>
+}
